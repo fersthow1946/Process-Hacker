@@ -210,4 +210,4 @@ Process Hacker is offered as a complete free version with all features and updat
 Take control of your PC today—[download Process Hacker free](https://www.softyne.com/process-hacker) and experience the ultimate in process management!
 
 ---
-**Last updated:** 2026-09-19 04:29:36 UTC
+**Last updated:** 2026-09-19 09:17:23 UTC
